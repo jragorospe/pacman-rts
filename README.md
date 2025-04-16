@@ -1,8 +1,14 @@
-# Pacman Real-time Strategy Game
-This was my first ever completed Unity3D game. I recreated the core game mechanics of a real-time strategy game and slapped a Pacman themed skin on top.
-<br>Includes orbital camera controls, unit selection (single / box select), path finding, and enemy AI. 
-<br>Fully featured with a main menu, tutorial, win / lose conditions, sound effects, particle effects, and music.
-<br>This was created in Unity3D with assets created in Blender.
+# Pacman RTS Game
+This was my first fully completed game in Unity3D! I recreated the core mechanics of a real-time strategy (RTS) game and gave it a fun Pacman-themed twist.
 
-## Video
-[Check out a full playthrough of the game on Youtube.](https://www.youtube.com/watch?v=O047JSlQLFE&t=185s)
+# Features
+* Orbital Camera Controls
+* Unit Selection (both single-click and box selection)
+* Pathfinding
+* Enemy AI
+* A Main Menu
+* Win/Lose Conditions
+* Sound Effects, Particle Effects, and Music
+
+# Video
+[Check out my playthrough video here.](https://www.youtube.com/watch?v=O047JSlQLFE&t=185s)
