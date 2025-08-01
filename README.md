@@ -3,7 +3,8 @@
 This game combines the classic Pacman theme with real-time strategy gameplay mechanics.
 
 <img width="1280" height="720" alt="Pacman RTS Screenshot" src="https://github.com/user-attachments/assets/a8481041-8b25-4e4d-8f0a-4e21dfd66ada" />
-> [Video Showcase](https://www.youtube.com/watch?v=O047JSlQLFE&t=185s)
+
+[Video Showcase](https://www.youtube.com/watch?v=O047JSlQLFE&t=185s)
 
 ## Features
 - Orbital Camera Controls
